@@ -10,7 +10,6 @@ struct env
 {
 
 };
-
 // configuration type of the environment defined three different type of configuration structures.
     struct CONFIG_ONE;
     struct CONFIG_TWO;
