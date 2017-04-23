@@ -1,3 +1,9 @@
+#include "VisitorPattern.hpp"
+ 
+#include "boost/variant.hpp"
+#include <iostream>
+ 
+
 int my_visitor::operator()(int i) const
 {
     return i;
